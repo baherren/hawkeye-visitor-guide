@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /hawkeye-visitor-guide/
+
+Sitemap: https://baherren.github.io/hawkeye-visitor-guide/sitemap.xml
